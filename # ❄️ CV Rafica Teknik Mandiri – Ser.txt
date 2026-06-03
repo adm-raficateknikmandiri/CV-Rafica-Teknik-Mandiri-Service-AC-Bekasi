@@ -1,0 +1,44 @@
+# ❄️ CV Rafica Teknik Mandiri – Service AC Bekasi
+
+Website resmi CV Rafica Teknik Mandiri, penyedia jasa **service AC profesional di Bekasi** untuk rumah, kantor, dan industri.
+
+## 🌐 Demo Website
+Website dapat diakses melalui GitHub Pages setelah diaktifkan:
+https://username.github.io/rafica-teknik/
+
+---
+
+## 🧰 Layanan Kami
+- Cuci / Cleaning AC
+- Perbaikan AC tidak dingin
+- Isi & tambah freon
+- Bongkar pasang AC
+- Instalasi AC baru
+
+---
+
+## ⭐ Keunggulan
+- Teknisi berpengalaman
+- Pengerjaan cepat & rapi
+- Bergaransi
+- Harga terjangkau
+- Melayani area Bekasi & sekitarnya
+
+---
+
+## 📍 Kontak
+- 📞 WhatsApp: 0878-7576-3334  
+- 📧 Email: rafica.teknik@gmail.com  
+- 📍 Lokasi: Bekasi, Jawa Barat  
+
+👉 Chat langsung: https://wa.me/6287875763334
+
+---
+
+## 🚀 Tentang Website Ini
+Website ini dibuat menggunakan HTML sederhana dan dihosting gratis melalui **GitHub Pages**.
+
+---
+
+## © 2026 CV Rafica Teknik Mandiri
+All rights reserved.
